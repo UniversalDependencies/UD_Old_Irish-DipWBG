@@ -38,3 +38,52 @@
 20	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	19	obl:prep	_	SpaceAfter=No
 21	si	si	PRON	_	PronType=Emp	20	amod	_	_
 
+# sent_id = 3
+# reference = 14d26
+# text = .i. isipersin crist dagníusa sin
+1	.i.	.i.	ADV	_	Abbr=Yes	8	advmod	_	_
+2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
+3	i	i	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
+4	persin	persan	NOUN	_	Case=Acc|Number=Sing	8	obl	_	_
+5	crist	críst	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
+6	d	do	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
+7	a	a	PRON	_	Gender=Neut|Number=Sing|Person=3|PronClass=A|PronType=Prs	6	obj:infx	_	SpaceAfter=No
+8	gníu	dogní	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+9	sa	sa	PRON	_	PronType=Emp	8	amod	_	_
+10	sin	sin	PART	_	PronType=Dem	8	nsubj	_	_
+
+# sent_id = 4
+# reference = 12c9
+# text = .i. ó domanicc foirbthetu ní denim gnímu macthi act rísam nem bimmi æcni et bimmi foirbthi uili
+1	.i.	.i.	ADV	_	Abbr=Yes	8	advmod	_	_
+2	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	_
+3	do	do	PART	_	PartType=Vb	5	compound:prt	_	SpaceAfter=No
+4	m	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	3	obj:infx	_	SpaceAfter=No
+5	anicc	doicc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	8	advcl	_	_
+6	foirbthetu	foirbthetu	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+7	ní	ní	PART	_	Polarity=Neg	8	advmod	_	_
+8	denim	dogní	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+9	gnímu	gním	NOUN	_	Case=Acc|Number=Plur	8	nsubj	_	_
+10	macthi	maccthae	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
+11	act	acht	SCONJ	_	_	13	mark	_	_
+12	r	ro	PART	_	PartType=Vb	13	compound:prt	_	SpaceAfter=No
+13	ísam	roicc	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	8	advcl	_	_
+14	nem	nem	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+15	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	16	cop	_	_
+16	æcni	ecnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	15	advcl	_	_
+17	et	_	CCONJ	_	Foreign=Yes	19	cc	_	_
+18	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	19	cop	_	_
+19	foirbthi	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	16	conj	_	_
+20	uili	uile	NOUN	_	Case=Nom|Number=Plur	19	nmod	_	_
+
+# sent_id = 5
+# reference = 21c19
+# text = .i. isocprecept soscéli attó
+1	.i.	.i.	ADV	_	Abbr=Yes	7	advmod	_	_
+2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
+3	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
+4	precept	precept	NOUN	_	Case=Dat|Number=Sing	7	xcomp	_	_
+5	soscéli	soiscélae	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
+6	at	at	PART	_	PartType=Vb	7	compound:prt	_	SpaceAfter=No
+7	tó	attá	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+
