@@ -17,7 +17,7 @@
 # reference = 12c29
 # text = .i. niarformut fribsi asbiursa inso arropad maith limsa labrad ilbelre dúibsi
 1	.i.	.i.	ADV	_	Abbr=Yes	8	advmod	_	_
-2	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop|Voice=Act	4	cop	_	SpaceAfter=No
+2	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
 4	formut	format	NOUN	_	Case=Dat|Number=Sing	8	obl	_	_
 5	frib	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	SpaceAfter=No
@@ -28,7 +28,7 @@
 10	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
 11	so	so	PART	_	PronType=Dem	8	nsubj	_	_
 12	ar	ar	SCONJ	_	_	14	mark	_	SpaceAfter=No
-13	ropad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop|Voice=Act	14	cop	_	_
+13	ropad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	14	cop	_	_
 14	maith	maith	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
 15	lim	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	14	obl:prep	_	SpaceAfter=No
 16	sa	sa	PRON	_	PronType=Emp	15	amod	_	_
