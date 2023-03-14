@@ -70,7 +70,7 @@
 13	ísam	roicc	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	8	advcl	_	_
 14	nem	nem	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
 15	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	16	cop	_	_
-16	æcni	ecnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	15	advcl	_	_
+16	æcni	ecnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	13	advcl	_	_
 17	et	_	CCONJ	_	Foreign=Yes	19	cc	_	_
 18	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	19	cop	_	_
 19	foirbthi	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	16	conj	_	_
