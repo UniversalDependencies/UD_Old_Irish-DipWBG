@@ -133,7 +133,7 @@
 
 # sent_id = 8
 # reference = 9b4
-# text = .i. amal no nda frecṅdircc sa
+# text = .i. amal nondafrecṅdirccsa
 1	.i.	.i.	ADV	_	Abbr=Yes	5	advmod	_	_
 2	amal	amal	SCONJ	_	_	5	mark	_	_
 3	no	no	PART	_	PartType=Vb	4	compound:prt	_	SpaceAfter=No
