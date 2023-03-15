@@ -101,7 +101,7 @@
 9	co	co	SCONJ	_	_	10	mark	_	SpaceAfter=No
 10	nducaid	dobeir	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	dislocated	_	_
 11	etargne	etargne	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
-12	ṅ	ṅ	PART	_	PartType=Nas	13	mutation	_	_
+12	ṅ	ṅ	PART	_	PartType=Nas	13	flat:mutation	_	_
 13	dǽ	día	NOUN	_	Case=Gen|Number=Sing	11	nmod	_	_
 14	et	_	CCONJ	_	Foreign=Yes	17	cc	_	_
 15	co	co	SCONJ	_	_	17	mark	_	SpaceAfter=No
