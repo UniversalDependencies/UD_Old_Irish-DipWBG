@@ -19,11 +19,11 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	8	advmod	_	_
 2	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
-4	formut	format	NOUN	_	Case=Dat|Number=Sing	8	obl	_	_
+4	formut	format	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
 5	frib	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	SpaceAfter=No
 6	si	si	PRON	_	PronType=Emp	5	amod	_	_
 7	as	as	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
-8	biur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+8	biur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	4	acl	_	SpaceAfter=No
 9	sa	sa	PRON	_	PronType=Emp	8	amod	_	_
 10	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
 11	so	so	PART	_	PronType=Dem	8	nsubj	_	_
@@ -86,4 +86,33 @@
 5	soscéli	soiscélae	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
 6	at	at	PART	_	PartType=Vb	7	compound:prt	_	SpaceAfter=No
 7	tó	attá	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+
+# sent_id = 6
+# reference = 21a8
+# text = .i. ished inso noguidimm .i. conducaid etargne ṅ dǽ et conaroib temel innatol domunde tarrosc fornanme
+1	.i.	.i.	ADV	_	Abbr=Yes	7	advmod	_	_
+2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	2	cop	_	SpaceAfter=No
+3	hed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+4	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	so	so	PART	_	PronType=Dem	3	amod	_	_
+6	no	no	PART	_	PartType=Vb	7	compound:prt	_	SpaceAfter=No
+7	guidimm	guidid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	3	acl	_	_
+8	.i.	.i.	ADV	_	Abbr=Yes	10	advmod	_	_
+9	co	co	SCONJ	_	_	10	mark	_	SpaceAfter=No
+10	nducaid	dobeir	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	dislocated	_	_
+11	etargne	etargne	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
+12	ṅ	ṅ	PART	_	PartType=Nas	13	part:nas	_	_
+13	dǽ	día	NOUN	_	Case=Gen|Number=Sing	11	nmod	_	_
+14	et	_	CCONJ	_	Foreign=Yes	17	cc	_	_
+15	co	co	SCONJ	_	_	17	mark	_	SpaceAfter=No
+16	na	ná	SCONJ	_	Polarity=Neg	17	mark	_	SpaceAfter=No
+17	roib	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	conj	_	_
+18	temel	temel	NOUN	_	Case=Nom|Number=Sing	17	nsubj	_	_
+19	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	20	det	_	SpaceAfter=No
+20	tol	tol	NOUN	_	Case=Gen|Number=Plur	18	nmod	_	_
+21	domunde	domunde	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+22	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	23	case	_	SpaceAfter=No
+23	rosc	rosc	NOUN	_	Case=Acc|Number=Sing	20	nmod	_	_
+24	for	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	25	nmod:poss	_	SpaceAfter=No
+25	nanme	anim	NOUN	_	Case=Gen|Number=Sing	23	nmod	_	_
 

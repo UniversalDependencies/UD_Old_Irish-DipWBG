@@ -1,31 +1,3 @@
-# sent_id = 6
-# reference = 21a8
-# text = .i. is hed in so no guidimm .i. co nducaid etargne ṅdǽ et co na roib temel inna tol domunde tar rosc for nanme
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-4	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-5	so	so	PART	_	PronType=Dem	_	_	_	_
-6	no	no	PART	_	PartType=Vb	_	_	_	_
-7	guidimm	guidid	VERB	_	Mood=Ind|Number=Sing|Person=1|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
-8	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-9	co	co	SCONJ	_	_	_	_	_	_
-10	nducaid	dobeir	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	_	_
-11	etargne	etargne	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-12	ṅdǽ	día	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-13	et	_	X	_	Foreign=Yes	_	_	_	_
-14	co	co	SCONJ	_	_	_	_	_	_
-15	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
-16	roib	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
-17	temel	temel	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-18	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-19	tol	tol	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-20	domunde	domunde	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
-21	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-22	rosc	rosc	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-23	for	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
-24	nanme	anim	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-
 # sent_id = 7
 # reference = 14c18
 # text = .i. hore no ndob molor sa et no m móidim indib
@@ -33,7 +5,7 @@
 2	hore	óre	SCONJ	_	_	_	_	_	_
 3	no	no	PART	_	PartType=Vb	_	_	_	_
 4	ndob	dob	PRON	_	Number=Plur|Person=2|PronClass=C|PronType=Prs	_	_	_	_
-5	molor	molaid	VERB	_	Mood=Ind|Number=Sing|Person=1|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+5	molor	molaid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
 6	sa	sa	PRON	_	PronType=Emp	_	_	_	_
 7	et	_	X	_	Foreign=Yes	_	_	_	_
 8	no	no	PART	_	PartType=Vb	_	_	_	_
@@ -62,13 +34,13 @@
 6	tú	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 7	no	no	PART	_	PartType=Vb	_	_	_	_
 8	d	id	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=C|PronType=Prs	_	_	_	_
-9	nail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+9	nail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 10	acht	acht	SCONJ	_	_	_	_	_	_
 11	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 12	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 13	no	no	PART	_	PartType=Vb	_	_	_	_
 14	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	_	_	_	_
-15	ail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+15	ail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 
 # sent_id = 10
 # reference = 10d23
@@ -164,13 +136,13 @@
 7	són	són	PRON	_	PronType=Ana	_	_	_	_
 8	co	co	SCONJ	_	_	_	_	_	_
 9	eter	eter	PART	_	PartType=Vb	_	_	_	_
-10	certa	etarcerta	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+10	certa	etarcerta	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 11	a	a	PART	_	PronType=Dem,Rel	_	_	_	_
 12	nas	as	PART	_	PartType=Vb	_	_	_	_
-13	bera	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
+13	bera	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 14	et	_	X	_	Foreign=Yes	_	_	_	_
 15	con	co	SCONJ	_	_	_	_	_	_
-16	rucca	beirid	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+16	rucca	beirid	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 17	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 18	nætarcne	etargne	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 19	cáich	cách	PRON	_	PronType=Ind	_	_	_	_
@@ -191,7 +163,7 @@
 11	hí	í	PART	_	PartType=Dct	_	_	_	_
 12	siu	so	PART	_	PronType=Dem	_	_	_	_
 13	do	do	PART	_	PartType=Vb	_	_	_	_
-14	mmeil	domeil	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+14	mmeil	domeil	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 15	do	do	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
 16	chenél	cenél	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 17	ar	ara	SCONJ	_	_	_	_	_	_
@@ -297,7 +269,7 @@
 2	co	co	SCONJ	_	_	_	_	_	_
 3	no	no	PART	_	PartType=Vb	_	_	_	_
 4	s	s	PRON	_	Number=Plur|Person=3|PronClass=A|PronType=Prs	_	_	_	_
-5	berinn	beirid	VERB	_	Mood=Sub|Number=Sing|Person=1|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+5	berinn	beirid	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
 6	dochum	dochum	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	hirisse	iress	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
@@ -306,10 +278,10 @@
 # text = .i. co beid .i. co mbed a ndede sin i m labrad sa .i. gáu et fír .i. co mbad sain a nas berin o bélib et a ní imme radin ó chridiu
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	co	co	SCONJ	_	_	_	_	_	_
-3	beid	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+3	beid	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 5	co	co	SCONJ	_	_	_	_	_	_
-6	mbed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+6	mbed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 7	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 8	ndede	déde	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -334,7 +306,7 @@
 28	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 29	ní	í	PART	_	PartType=Dct	_	_	_	_
 30	imme	imm	PART	_	PartType=Vb	_	_	_	_
-31	radin	immrádi	VERB	_	Mood=Sub|Number=Sing|Person=1|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+31	radin	immrádi	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
 32	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 33	chridiu	cride	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
@@ -344,7 +316,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 3	nád	nád	SCONJ	_	Polarity=Neg	_	_	_	_
-4	ṁbed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+4	ṁbed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 5	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	se	so	PART	_	PronType=Dem	_	_	_	_
 7	di	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -423,7 +395,7 @@
 2	cid	cía	PRON	_	PronType=Int	_	_	_	_
 3	a	ad	PART	_	PartType=Vb	_	_	_	_
 4	tob	dob	PRON	_	Number=Plur|Person=2|PronClass=B|PronType=Prs	_	_	_	_
-5	aich	adaig	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+5	aich	adaig	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 6	cen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	dílgud	dílgud	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 8	cech	cach	PRON	_	PronType=Ind	_	_	_	_
@@ -475,7 +447,7 @@
 10	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 11	lia	il	ADJ	_	Degree=Cmp	_	_	_	_
 12	de	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-13	creitfess	creitid	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Fut|Voice=Act	_	_	_	_
+13	creitfess	creitid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	_
 
 # sent_id = 29
 # reference = 19b6
@@ -496,7 +468,7 @@
 14	bid	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 15	fíadib	fíad	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 16	no	no	PART	_	PartType=Vb	_	_	_	_
-17	crochthe	crochaid	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+17	crochthe	crochaid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 
 # sent_id = 30
 # reference = 28d16
@@ -505,7 +477,7 @@
 2	cách	cách	PRON	_	PronType=Ind	_	_	_	_
 3	ro	ro	PART	_	PartType=Vb	_	_	_	_
 4	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	_	_	_	_
-4	chechladar	rocluinethar	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Fut|Voice=Act	_	_	_	_
+4	chechladar	rocluinethar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	_
 4	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	precept	precept	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
@@ -608,7 +580,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ar	ara	SCONJ	_	_	_	_	_	_
 3	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
-4	érbarthar	asbeir	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
+4	érbarthar	asbeir	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 5	o	ó	SCONJ	_	_	_	_	_	_
 6	chretsit	creitid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
 7	nin	ní	PART	_	Polarity=Neg|PronClass=A|PronNum=Plur|PronPers=1|PronType=Prs	_	_	_	_
@@ -673,9 +645,9 @@
 5	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 6	meit	méit	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	fris	fris	PART	_	PartType=Vb	_	_	_	_
-8	comartatar	frisoirg	VERB	_	Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+8	comartatar	frisoirg	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
 9	co	co	SCONJ	_	_	_	_	_	_
-10	ndositis	dotuit	VERB	_	Mood=Sub|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+10	ndositis	dotuit	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
 11	huili	uile	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 12	a	_	X	_	Foreign=Yes	_	_	_	_
 13	fide	_	X	_	Foreign=Yes	_	_	_	_
