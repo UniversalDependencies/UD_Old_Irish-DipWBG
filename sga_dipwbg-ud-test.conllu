@@ -186,3 +186,82 @@
 21	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	SpaceAfter=No
 22	precepte	precept	NOUN	_	Case=Gen|Number=Sing	20	nmod	_	_
 
+# sent_id = 11
+# reference = 14d17
+# text = .i. coníarimse peccad libsi uili ɫ aratartsa fortacht dúibsi arnap trom fuirib fornóinur
+1	.i.	.i.	ADV	_	Abbr=Yes	4	advmod	_	_
+2	co	co	SCONJ	_	_	4	mark	_	SpaceAfter=No
+3	ní	ní	PART	_	Polarity=Neg	4	advmod	_	SpaceAfter=No
+4	arim	adrími	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+5	se	se	PRON	_	PronType=Emp	4	amod	_	_
+6	peccad	peccad	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+7	lib	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	6	obl:prep	_	SpaceAfter=No
+8	si	si	PRON	_	PronType=Emp	7	amod	_	_
+9	uili	uile	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	7	amod	_	_
+10	ɫ	nó	CCONJ	_	_	12	cc	_	_
+11	ara	ara	SCONJ	_	_	12	mark	_	SpaceAfter=No
+12	tart	dobeir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	4	conj	_	SpaceAfter=No
+13	sa	sa	PRON	_	PronType=Emp	12	amod	_	_
+14	fortacht	fortacht	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
+15	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	14	obl:prep	_	SpaceAfter=No
+16	si	si	PRON	_	PronType=Emp	15	amod	_	_
+17	ar	ara	SCONJ	_	_	20	mark	_	SpaceAfter=No
+18	na	ná	SCONJ	_	Polarity=Neg	20	mark	_	SpaceAfter=No
+19	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	20	cop	_	_
+20	trom	trom	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	advcl	_	_
+21	fuirib	for	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	20	obl:prep	_	_
+22	for	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	SpaceAfter=No
+23	nóinur	óinar	NOUN	_	Case=Dat|Number=Sing	21	nmod	_	_
+
+# sent_id = 12
+# reference = 12c36
+# text = .i. cote mothorbese dúib madmne labrar
+1	.i.	.i.	ADV	_	Abbr=Yes	10	advmod	_	_
+2	cote	cote	PRON	_	PronType=Int	10	ccomp	_	_
+3	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	SpaceAfter=No
+4	thorbe	torbae	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	se	se	PRON	_	PronType=Emp	4	amod	_	_
+6	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	_
+7	ma	má	SCONJ	_	_	9	mark	_	SpaceAfter=No
+8	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	9	cop	_	SpaceAfter=No
+9	mne	amein	ADV	_	_	10	advmod	_	_
+10	labrar	labraithir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+
+# sent_id = 13
+# reference = 6c9
+# text = .i. nihed notbeir ínem ciabaloingthech
+1	.i.	.i.	ADV	_	Abbr=Yes	_	advmod	_	_
+2	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	SpaceAfter=No
+3	hed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+4	no	no	PART	_	PartType=Vb	_	_	_	SpaceAfter=No
+5	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	_	_	_	SpaceAfter=No
+6	beir	beirid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+7	í	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	SpaceAfter=No
+8	nem	nem	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+9	cia	cía	SCONJ	_	_	_	_	_	SpaceAfter=No
+10	ba	is	AUX	_	Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	SpaceAfter=No
+11	loingthech	loingthech	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
+
+# sent_id = 14
+# reference = 12c32
+# text = Acht nammáa issamlid istorbe són co etercerta anasbera et conrucca inætarcne cáich
+1	Acht	acht	SCONJ	_	_	3	mark	_	_
+2	nammáa	nammá	ADV	_	_	4	advmod	_	_
+3	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
+4	samlid	amal	ADV	_	_	0	root	_	_
+5	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	6	cop	_	SpaceAfter=No
+6	torbe	torbae	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+7	són	són	PRON	_	PronType=Ana	6	amod	_	_
+8	co	co	SCONJ	_	_	10	mark	_	_
+9	eter	eter	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
+10	certa	etarcerta	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	csubj	_	_
+11	a	a	PART	_	PronType=Dem,Rel	13	nsubj	_	SpaceAfter=No
+12	nas	as	PART	_	PartType=Vb	13	compound:prt	_	SpaceAfter=No
+13	bera	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	acl:relcl	_	_
+14	et	_	CCONJ	_	Foreign=Yes	16	cc	_	_
+15	con	co	SCONJ	_	_	16	mark	_	SpaceAfter=No
+16	rucca	beirid	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	conj	_	_
+17	i	i	ADP	_	AdpType=Prep|Definite=Ind	18	case	_	SpaceAfter=No
+18	nætarcne	etargne	NOUN	_	Case=Acc|Number=Sing	16	obl	_	_
+19	cáich	cách	PRON	_	PronType=Ind	18	nmod	_	_
+
