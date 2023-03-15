@@ -143,7 +143,7 @@
 
 # sent_id = 9
 # reference = 5b28
-# text = .i. is inse ṅduit nitú ndnail acht ishé not ail
+# text = .i. is inse ṅduit nitú nodnail acht ishé not ail
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	3	cop	_	_
 3	inse	ansae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
@@ -151,7 +151,7 @@
 5	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	6	cop	_	SpaceAfter=No
 6	tú	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	3	dislocated	_	_
 7	no	no	PART	_	PartType=Vb	9	compound:prt	_	SpaceAfter=No
-8	d	id	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=C|PronType=Prs	8	obj:infx	_	SpaceAfter=No
+8	d	id	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=C|PronType=Prs	9	obj:infx	_	SpaceAfter=No
 9	nail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
 10	acht	acht	SCONJ	_	_	12	mark	_	_
 11	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	12	cop	_	SpaceAfter=No
