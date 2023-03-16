@@ -101,7 +101,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	do	do	PART	_	PartType=Vb	_	_	_	_
 3	gníthe	dogní	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
-4	a	a	PART	_	PronType=Dem,Rel	_	_	_	_
+4	a	a	PART	_	PartType=Rel|PronType=Dem	_	_	_	_
 5	nas	as	PART	_	PartType=Vb	_	_	_	_
 6	bered	asbeir	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 7	moysi	moysi	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -148,7 +148,7 @@
 19	co	co	SCONJ	_	_	_	_	_	_
 20	mbad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 21	sain	sain	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-22	a	a	PART	_	PronType=Dem,Rel	_	_	_	_
+22	a	a	PART	_	PartType=Rel|PronType=Dem	_	_	_	_
 23	nas	as	PART	_	PartType=Vb	_	_	_	_
 24	berin	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
 25	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -223,7 +223,7 @@
 15	ce	cía	SCONJ	_	_	_	_	_	_
 16	du	do	PART	_	PartType=Vb	_	_	_	_
 17	gnemmis	dogní	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
-18	a	a	PART	_	PronType=Dem,Rel	_	_	_	_
+18	a	a	PART	_	PartType=Rel|PronType=Dem	_	_	_	_
 19	ndu	do	PART	_	PartType=Vb	_	_	_	_
 20	gniat	dogní	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 21	ar	ar	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
@@ -420,7 +420,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	rocomalnisid	comalnaithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	_	_	_	_
 3	si	si	PRON	_	PronType=Emp	_	_	_	_
-4	a	a	PART	_	PronType=Dem,Rel	_	_	_	_
+4	a	a	PART	_	PartType=Rel|PronType=Dem	_	_	_	_
 5	nropridchissem	pridchaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
 6	ni	ni	PRON	_	PronType=Emp	_	_	_	_
 7	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	_	_	_	_
