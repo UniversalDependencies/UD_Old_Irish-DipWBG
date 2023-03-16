@@ -27,18 +27,6 @@
 24	dét	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 25	so	so	PRON	_	PronType=Emp	_	_	_	_
 
-# sent_id = 16
-# reference = 29d19
-# text = .i. naba thoirsech cia beo sa hi carcair
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	naba	is	AUX	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbType=Cop	_	_	_	_
-3	thoirsech	toirsech	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
-4	cia	cía	SCONJ	_	_	_	_	_	_
-5	beo	attá	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
-6	sa	sa	PRON	_	PronType=Emp	_	_	_	_
-7	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-8	carcair	carcar	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-
 # sent_id = 17
 # reference = 27a24
 # text = .i. nachib mided .i. nachib berar i smachtu rechta fetarlicce inn a ndig et a mbiad inn a llíthu et a ssapati act bad foirbthe far niress
@@ -70,31 +58,6 @@
 26	far	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
 27	niress	iress	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
-# sent_id = 18
-# reference = 9a14
-# text = .i. bed adthramli .i. gaibid comarbus for nathar et int amlid a béssu
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	bed	is	AUX	_	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbType=Cop	_	_	_	_
-3	adthramli	athramail	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
-4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-5	gaibid	gaibid	VERB	_	Mood=Imp|Number=Plur|Person=2|Voice=Act	_	_	_	_
-6	comarbus	comarbus	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-7	for	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
-8	nathar	athair	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-9	et	_	X	_	Foreign=Yes	_	_	_	_
-10	int	in	PART	_	PartType=Vb	_	_	_	_
-11	amlid	insamlathar	VERB	_	Mood=Imp|Number=Plur|Person=2|Voice=Act	_	_	_	_
-12	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-13	béssu	bés	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-
-# sent_id = 19
-# reference = 23d10
-# text = .i. no b carad
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	no	no	PART	_	PartType=Vb	_	_	_	_
-3	b	b	PRON	_	Number=Plur|Person=2|PronClass=A|PronType=Prs	_	_	_	_
-4	carad	caraid	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
-
 # sent_id = 20
 # reference = 15a18
 # text = .i. do gníthe a nas bered moysi ɫ. do árbas gloria oc tindnacul legis
@@ -112,17 +75,6 @@
 12	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 13	tindnacul	tindnacul	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 14	legis	_	X	_	Foreign=Yes	_	_	_	_
-
-# sent_id = 21
-# reference = 10d36
-# text = .i. co no s berinn dochum hirisse
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	co	co	SCONJ	_	_	_	_	_	_
-3	no	no	PART	_	PartType=Vb	_	_	_	_
-4	s	s	PRON	_	Number=Plur|Person=3|PronClass=A|PronType=Prs	_	_	_	_
-5	berinn	beirid	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
-6	dochum	dochum	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	hirisse	iress	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 22
 # reference = 14c23
@@ -173,7 +125,7 @@
 7	di	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 8	chorp	corp	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 9	act	acht	SCONJ	_	_	_	_	_	_
-10	a	at	PART	_	PartType=Vb	_	_	_	_
+10	a	at	PART	_	PartType=Vb	11	compound:prt	_	_
 11	tá	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 12	de	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -321,17 +273,6 @@
 16	no	no	PART	_	PartType=Vb	_	_	_	_
 17	crochthe	crochaid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 
-# sent_id = 30
-# reference = 28d16
-# text = .i. cách ro t chechladar oc precept
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	cách	cách	PRON	_	PronType=Ind	_	_	_	_
-3	ro	ro	PART	_	PartType=Vb	_	_	_	_
-4	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	_	_	_	_
-4	chechladar	rocluinethar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	_
-4	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	precept	precept	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-
 # sent_id = 31
 # reference = 18a14
 # text = .i. as ririu sa mo chumang dar far cenn
@@ -372,18 +313,6 @@
 8	ar	ar	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 9	fochidi	fochith	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 
-# sent_id = 34
-# reference = 30b4
-# text = .i. a nno ngeiss cách imm a chomalnad
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	a	a	SCONJ	_	_	_	_	_	_
-3	nno	no	PART	_	PartType=Vb	_	_	_	_
-4	ngeiss	guidid	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	_
-5	cách	cách	PRON	_	PronType=Ind	_	_	_	_
-6	imm	imm	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-8	chomalnad	comalnad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-
 # sent_id = 35
 # reference = 11a24
 # text = .i. ni gessam ni níi bes chotarsne di ar nícc
@@ -413,17 +342,6 @@
 10	etar	adcota	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 11	cia	cía	SCONJ	_	_	_	_	_	_
 12	gessir	guidid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-
-# sent_id = 37
-# reference = 26b6
-# text = .i. rocomalnisid si a nropridchissem ni dúib
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	rocomalnisid	comalnaithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	_	_	_	_
-3	si	si	PRON	_	PronType=Emp	_	_	_	_
-4	a	a	PART	_	PartType=Rel|PronType=Dem	_	_	_	_
-5	nropridchissem	pridchaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
-6	ni	ni	PRON	_	PronType=Emp	_	_	_	_
-7	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 
 # sent_id = 38
 # reference = 31c7
