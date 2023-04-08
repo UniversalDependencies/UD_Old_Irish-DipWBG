@@ -164,7 +164,7 @@
 # text = .i. madarlóg pridchasa .i. armetiuth et mothoschith nímbia fochricc dar hési moprecepte
 1	.i.	.i.	ADV	_	Abbr=Yes	5	advmod	_	_
 2	ma	má	SCONJ	_	_	5	mark	_	SpaceAfter=No
-3	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	5	cop	_	SpaceAfter=No
+3	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	5	nsubj	_	SpaceAfter=No
 4	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	SpaceAfter=No
 5	lóg	lóg	NOUN	_	Case=Acc|Number=Sing	6	obl	_	_
 6	pridcha	pridchaid	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
@@ -206,7 +206,7 @@
 16	si	si	PRON	_	PronType=Emp	15	amod	_	_
 17	ar	ara	SCONJ	_	_	20	mark	_	SpaceAfter=No
 18	na	ná	SCONJ	_	Polarity=Neg	20	mark	_	SpaceAfter=No
-19	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	20	cop	_	_
+19	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	20	nsubj	_	_
 20	trom	trom	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	advcl	_	_
 21	fuirib	for	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	20	obl:prep	_	_
 22	for	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	SpaceAfter=No
@@ -222,7 +222,7 @@
 5	se	se	PRON	_	PronType=Emp	4	amod	_	_
 6	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	_
 7	ma	má	SCONJ	_	_	9	mark	_	SpaceAfter=No
-8	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	9	cop	_	SpaceAfter=No
+8	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	9	nsubj	_	SpaceAfter=No
 9	mne	amein	ADV	_	_	10	advmod	_	_
 10	labrar	labraithir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 
@@ -230,7 +230,7 @@
 # reference = 6c9
 # text = .i. nihed notbeir ínem ciabaloingthech
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
-2	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	3	cop	_	SpaceAfter=No
+2	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	3	nsubj	_	SpaceAfter=No
 3	hed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 4	no	no	PART	_	PartType=Vb	6	compound:prt	_	SpaceAfter=No
 5	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	4	obj:infx	_	SpaceAfter=No
@@ -238,7 +238,7 @@
 7	í	i	ADP	_	AdpType=Prep|Definite=Ind	8	case	_	SpaceAfter=No
 8	nem	nem	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
 9	cia	cía	SCONJ	_	_	11	mark	_	SpaceAfter=No
-10	ba	is	AUX	_	Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbType=Cop	11	cop	_	SpaceAfter=No
+10	ba	is	AUX	_	Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbType=Cop	11	nsubj	_	SpaceAfter=No
 11	loingthech	loingthech	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	acl	_	_
 
 # sent_id = 14
@@ -246,11 +246,11 @@
 # text = Acht nammáa issamlid istorbe són co etercerta anasbera et conrucca inætarcne cáich
 1	Acht	acht	SCONJ	_	_	4	mark	_	_
 2	nammáa	nammá	ADV	_	_	1	advmod	_	_
-3	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
+3	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 4	samlid	amal	ADV	_	_	0	root	_	_
 5	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	6	cop	_	SpaceAfter=No
 6	torbe	torbae	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
-7	són	són	PRON	_	PronType=Ana	6	amod	_	_
+7	són	són	PRON	_	PronType=Ana	6	nsubj	_	_
 8	co	co	SCONJ	_	_	10	mark	_	_
 9	eter	eter	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
 10	certa	etarcerta	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	csubj	_	_
@@ -268,7 +268,7 @@
 # reference = 29d19
 # text = .i. nabathoirsech ciabeosa hicarcair
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
-2	naba	is	AUX	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbType=Cop	3	cop	_	SpaceAfter=No
+2	naba	is	AUX	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbType=Cop	3	nsubj	_	SpaceAfter=No
 3	thoirsech	toirsech	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 4	cia	cía	SCONJ	_	_	5	mark	_	SpaceAfter=No
 5	beo	attá	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	3	acl	_	SpaceAfter=No
@@ -280,7 +280,7 @@
 # reference = 9a14
 # text = .i. bedadthramli .i. gaibid comarbus for nathar et intamlid abéssu
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
-2	bed	is	AUX	_	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbType=Cop	3	cop	_	SpaceAfter=No
+2	bed	is	AUX	_	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbType=Cop	3	nsubj	_	SpaceAfter=No
 3	adthramli	athramail	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
 4	.i.	.i.	ADV	_	Abbr=Yes	5	advmod	_	_
 5	gaibid	gaibid	VERB	_	Mood=Imp|Number=Plur|Person=2|Voice=Act	3	dislocated	_	_
