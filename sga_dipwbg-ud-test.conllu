@@ -17,7 +17,7 @@
 # reference = 12c29
 # text = .i. niarformut fribsi asbiursa inso arropad maith limsa labrad ilbelre dúibsi
 1	.i.	.i.	ADV	_	Abbr=Yes	8	advmod	_	_
-2	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
+2	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
 4	formut	format	NOUN	_	Case=Dat|Number=Sing	8	obl	_	_
 5	frib	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	SpaceAfter=No
@@ -32,7 +32,7 @@
 14	maith	maith	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	advcl	_	_
 15	lim	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	14	obl:prep	_	SpaceAfter=No
 16	sa	sa	PRON	_	PronType=Emp	15	amod	_	_
-17	labrad	labrad	NOUN	_	Case=Nom|Number=Sing	14	obl	_	_
+17	labrad	labrad	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	_
 18	il	il	ADJ	_	Degree=Pos|Prefix=Yes	19	amod	_	SpaceAfter=No
 19	belre	bélrae	NOUN	_	Case=Gen|Number=Plur	17	nmod	_	_
 20	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	19	obl:prep	_	SpaceAfter=No
@@ -42,9 +42,9 @@
 # reference = 14d26
 # text = .i. isipersin crist dagníusa sin
 1	.i.	.i.	ADV	_	Abbr=Yes	8	advmod	_	_
-2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
+2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 3	i	i	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
-4	persin	persan	NOUN	_	Case=Acc|Number=Sing	8	obl	_	_
+4	persin	persan	NOUN	_	Case=Acc|Number=Sing	8	xcomp	_	_
 5	crist	críst	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
 6	d	do	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
 7	a	a	PRON	_	Gender=Neut|Number=Sing|Person=3|PronClass=A|PronType=Prs	6	obj:infx	_	SpaceAfter=No
@@ -69,10 +69,10 @@
 12	r	ro	PART	_	PartType=Vb	13	compound:prt	_	SpaceAfter=No
 13	ísam	roicc	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	8	advcl	_	_
 14	nem	nem	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
-15	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	16	cop	_	_
+15	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	16	nsubj	_	_
 16	æcni	ecnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	13	advcl	_	_
 17	et	_	CCONJ	_	Foreign=Yes	19	cc	_	_
-18	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	19	cop	_	_
+18	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	19	nsubj	_	_
 19	foirbthi	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	16	conj	_	_
 20	uili	uile	NOUN	_	Case=Nom|Number=Plur	19	nmod	_	_
 
@@ -80,7 +80,7 @@
 # reference = 21c19
 # text = .i. isocprecept soscéli attó
 1	.i.	.i.	ADV	_	Abbr=Yes	7	advmod	_	_
-2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	cop	_	SpaceAfter=No
+2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 3	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
 4	precept	precept	NOUN	_	Case=Dat|Number=Sing	7	xcomp	_	_
 5	soscéli	soiscélae	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
@@ -92,11 +92,11 @@
 # text = .i. ished inso noguidimm .i. conducaid etargne ṅ dǽ et conaroib temel innatol domunde tarrosc fornanme
 1	.i.	.i.	ADV	_	Abbr=Yes	7	advmod	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	3	cop	_	SpaceAfter=No
-3	hed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+3	hed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 4	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
-5	so	so	PART	_	PronType=Dem	3	amod	_	_
+5	so	so	PART	_	PronType=Dem	3	nsubj	_	_
 6	no	no	PART	_	PartType=Vb	7	compound:prt	_	SpaceAfter=No
-7	guidimm	guidid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+7	guidimm	guidid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	5	acl:relcl	_	_
 8	.i.	.i.	ADV	_	Abbr=Yes	10	advmod	_	_
 9	co	co	SCONJ	_	_	10	mark	_	SpaceAfter=No
 10	nducaid	dobeir	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Voice=Act	7	dislocated	_	_
@@ -135,25 +135,25 @@
 # text = .i. amal nondafrecṅdirccsa
 1	.i.	.i.	ADV	_	Abbr=Yes	5	advmod	_	_
 2	amal	amal	SCONJ	_	_	5	mark	_	_
-3	no	no	PART	_	PartType=Vb	5	compound:prt	_	SpaceAfter=No
-4	nda	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	5	cop	_	SpaceAfter=No
+3	no	no	PART	_	PartType=Vb	4	compound:prt	_	SpaceAfter=No
+4	nda	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	5	nsubj	_	SpaceAfter=No
 5	frecṅdircc	frecndairc	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-6	sa	sa	PRON	_	PronType=Emp	5	amod	_	_
+6	sa	sa	PRON	_	PronType=Emp	4	amod	_	_
 
 # sent_id = 9
 # reference = 5b28
 # text = .i. is inse ṅduit nitú nodnail acht ishé not ail
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
-2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	3	cop	_	_
+2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	3	nsubj	_	_
 3	inse	ansae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 4	ṅduit	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	3	obl:prep	_	_
-5	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	6	cop	_	SpaceAfter=No
+5	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	6	nsubj	_	SpaceAfter=No
 6	tú	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	3	dislocated	_	_
 7	no	no	PART	_	PartType=Vb	9	compound:prt	_	SpaceAfter=No
 8	d	id	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=C|PronType=Prs	7	obj:infx	_	SpaceAfter=No
 9	nail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
 10	acht	acht	SCONJ	_	_	12	mark	_	_
-11	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	12	cop	_	SpaceAfter=No
+11	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	12	nsubj	_	SpaceAfter=No
 12	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl	_	_
 13	no	no	PART	_	PartType=Vb	15	compound:prt	_	SpaceAfter=No
 14	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	13	obj:infx	_	_
