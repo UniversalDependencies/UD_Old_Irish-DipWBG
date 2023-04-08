@@ -250,7 +250,7 @@
 4	samlid	amal	ADV	_	_	0	root	_	_
 5	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	6	cop	_	SpaceAfter=No
 6	torbe	torbae	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
-7	són	són	PRON	_	PronType=Ana	6	nsubj	_	_
+7	són	són	PRON	_	PronType=Ana	6	nsubj:outer	_	_
 8	co	co	SCONJ	_	_	10	mark	_	_
 9	eter	eter	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
 10	certa	etarcerta	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	csubj	_	_
