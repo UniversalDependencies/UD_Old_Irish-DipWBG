@@ -5,13 +5,13 @@
 2	biuu	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
 3	sa	sa	PRON	_	PronType=Emp	2	amod	_	_
 4	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	SpaceAfter=No
-5	irbáig	airbág	NOUN	_	Case=Dat|Number=Sing	2	xcomp	_	_
+5	irbáig	airbág	NOUN	_	Case=Dat|Number=Sing	2	obl	_	_
 6	dar	tar	ADP	_	AdpType=Prep|Definite=Ind	8	case	_	SpaceAfter=No
 7	far	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	SpaceAfter=No
-8	cenn	cenn	NOUN	_	Case=Acc|Number=Sing	2	obl	_	SpaceAfter=No
+8	cenn	cenn	NOUN	_	Case=Acc|Number=Sing	5	acl	_	SpaceAfter=No
 9	si	si	PRON	_	PronType=Emp	7	amod	_	_
 10	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	SpaceAfter=No
-11	maccidóndu	maccidóndae	PROPN	_	Case=Acc|Number=Plur	2	obl	_	_
+11	maccidóndu	maccidóndae	PROPN	_	Case=Acc|Number=Plur	5	acl	_	_
 
 # sent_id = 2
 # reference = 12c29
@@ -44,7 +44,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	8	advmod	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 3	i	i	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
-4	persin	persan	NOUN	_	Case=Acc|Number=Sing	8	xcomp	_	_
+4	persin	persan	NOUN	_	Case=Acc|Number=Sing	8	obl	_	_
 5	crist	críst	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
 6	d	do	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
 7	a	a	PRON	_	Gender=Neut|Number=Sing|Person=3|PronClass=A|PronType=Prs	6	obj:infx	_	SpaceAfter=No
@@ -82,7 +82,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	7	advmod	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 3	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
-4	precept	precept	NOUN	_	Case=Dat|Number=Sing	7	xcomp	_	_
+4	precept	precept	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
 5	soscéli	soiscélae	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
 6	at	at	PART	_	PartType=Vb	7	compound:prt	_	SpaceAfter=No
 7	tó	attá	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
@@ -216,9 +216,9 @@
 # reference = 12c36
 # text = .i. cote mothorbese dúib madmne labrar
 1	.i.	.i.	ADV	_	Abbr=Yes	10	advmod	_	_
-2	cote	cote	PRON	_	PronType=Int	10	ccomp	_	_
+2	cote	cote	PRON	_	PronType=Int	4	mark	_	_
 3	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	SpaceAfter=No
-4	thorbe	torbae	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	thorbe	torbae	NOUN	_	Case=Nom|Number=Sing	10	advcl	_	SpaceAfter=No
 5	se	se	PRON	_	PronType=Emp	4	amod	_	_
 6	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	_
 7	ma	má	SCONJ	_	_	9	mark	_	SpaceAfter=No
@@ -254,9 +254,9 @@
 8	co	co	SCONJ	_	_	10	mark	_	_
 9	eter	eter	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
 10	certa	etarcerta	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	csubj	_	_
-11	a	a	PART	_	PartType=Rel|PronType=Dem	13	nsubj	_	SpaceAfter=No
+11	a	a	PART	_	PartType=Rel|PronType=Dem	11	obj	_	SpaceAfter=No
 12	nas	as	PART	_	PartType=Vb	13	compound:prt	_	SpaceAfter=No
-13	bera	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	acl:relcl	_	_
+13	bera	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	acl:relcl	_	_
 14	et	_	CCONJ	_	Foreign=Yes	16	cc	_	_
 15	con	co	SCONJ	_	_	16	mark	_	SpaceAfter=No
 16	rucca	beirid	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	conj	_	_
@@ -301,6 +301,24 @@
 3	b	b	PRON	_	Number=Plur|Person=2|PronClass=A|PronType=Prs	2	obj:infx	_	SpaceAfter=No
 4	carad	caraid	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 
+# sent_id = 20
+# reference = 15a18
+# text = .i. dogníthe anasbered moysi ɫ doárbas gloria octindnacul legis
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	do	do	PART	_	PartType=Vb	3	compound:prt	_	SpaceAfter=No
+3	gníthe	dogní	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+4	a	a	PART	_	PartType=Rel|PronType=Dem	3	obj	_	SpaceAfter=No
+5	nas	as	PART	_	PartType=Vb	6	compound:prt	_	SpaceAfter=No
+6	bered	asbeir	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	acl:relcl	_	_
+7	moysi	moysi	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+8	ɫ	nó	CCONJ	_	_	10	cc	_	_
+9	do	do	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
+10	árbas	doadbat	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	conj	_	_
+11	gloria	_	X	_	Foreign=Yes	10	flat:foreign	_	_
+12	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	13	case	_	SpaceAfter=No
+13	tindnacul	tindnacul	NOUN	_	Case=Dat|Number=Sing	10	obl	_	_
+14	legis	_	X	_	Foreign=Yes	13	flat:foreign	_	_
+
 # sent_id = 21
 # reference = 10d36
 # text = .i. conosberinn dochum hirisse
@@ -312,6 +330,39 @@
 6	dochum	dochum	ADP	_	AdpType=Prep|Definite=Ind	7	case	_	_
 7	hirisse	iress	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
 
+# sent_id = 23
+# reference = 12a22
+# text = .i. ní nád ṁ bed arse dichorp act atá de
+1	.i.	.i.	ADV	_	Abbr=Yes	4	advmod	_	_
+2	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	4	obl	_	_
+3	nád	nád	SCONJ	_	Polarity=Neg	4	mark	_	_
+4	ṁ bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+5	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	SpaceAfter=No
+6	se	so	PART	_	PronType=Dem	4	obl	_	_
+7	di	de	ADP	_	AdpType=Prep|Definite=Ind	8	case	_	SpaceAfter=No
+8	chorp	corp	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+9	act	acht	SCONJ	_	_	11	mark	_	_
+10	a	at	PART	_	PartType=Vb	11	compound:prt	_	SpaceAfter=No
+11	tá	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	advcl	_	_
+12	de	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=3|PronType=Prs	11	obl:prep	_	_
+
+# sent_id = 28
+# reference = 23b7
+# text = .i. hore amessaminse precepte asmochuimriug islia de creitfess
+1	.i.	.i.	ADV	_	Abbr=Yes	13	advmod	_	_
+2	hore	óre	SCONJ	_	_	4	mark	_	_
+3	am	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
+4	essamin	essamin	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	advcl	_	SpaceAfter=No
+5	se	se	PRON	_	PronType=Emp	3	amod	_	_
+6	precepte	precept	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
+7	as	a	ADP	_	AdpType=Prep|Definite=Ind	9	case	_	SpaceAfter=No
+8	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	SpaceAfter=No
+9	chuimriug	cuimrech	NOUN	_	Case=Dat|Number=Sing	6	nmod	_	_
+10	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	11	nsubj	_	SpaceAfter=No
+11	lia	il	ADJ	_	Degree=Cmp	13	ccomp	_	_
+12	de	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=3|PronType=Prs	11	obl:prep	_	_
+13	creitfess	creitid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	_
+
 # sent_id = 30
 # reference = 28d16
 # text = .i. cách rotchechladar ocprecept
@@ -321,7 +372,109 @@
 4	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	3	obj:infx	_	SpaceAfter=No
 5	chechladar	rocluinethar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	_
 6	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	7	case	_	SpaceAfter=No
-7	precept	precept	NOUN	_	Case=Dat|Number=Sing	5	xcomp	_	_
+7	precept	precept	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+
+# sent_id = 31
+# reference = 18a14
+# text = .i. asririusa mochumang darfar cenn
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	as	as	PART	_	PartType=Vb	3	compound:prt	_	SpaceAfter=No
+3	ririu	asren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No
+4	sa	sa	PRON	_	PronType=Emp	3	amod	_	_
+5	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	SpaceAfter=No
+6	chumang	cumang	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+7	dar	tar	ADP	_	AdpType=Prep|Definite=Ind	9	case	_	SpaceAfter=No
+8	far	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+9	cenn	cenn	NOUN	_	Case=Acc|Number=Sing	3	obl	_	_
+
+# sent_id = 32
+# reference = 28c2
+# text = .i. niriat nadánu diadi aranindeb domunde
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	ni	ní	PART	_	Polarity=Neg	3	advmod	_	SpaceAfter=No
+3	riat	renaid	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+4	na	in	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Art	5	det	_	SpaceAfter=No
+5	dánu	dán	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+6	diadi	díade	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
+7	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	9	case	_	SpaceAfter=No
+8	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	nindeb	indeb	NOUN	_	Case=Acc|Number=Sing	3	obl	_	_
+10	domunde	domundae	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+
+# sent_id = 33
+# reference = 14c2a
+# text = .i. gigestesi dia linn arafulsam ar fochidi
+1	.i.	.i.	ADV	_	Abbr=Yes	2	advmod	_	_
+2	gigeste	guidid	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No
+3	si	si	PRON	_	PronType=Emp	2	amod	_	_
+4	dia	día	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
+5	linn	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	4	obl:prep	_	_
+6	ara	ara	SCONJ	_	_	7	mark	_	SpaceAfter=No
+7	fulsam	foloing	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	2	advcl	_	_
+8	ar	ar	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+9	fochidi	fochith	NOUN	_	Case=Acc|Number=Plur	7	obj	_	_
+
+# sent_id = 35
+# reference = 11a24
+# text = .i. nigessamni níi beschotarsne diar nícc
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	ni	ní	PART	_	Polarity=Neg	3	advmod	_	SpaceAfter=No
+3	gessam	guidid	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+4	ni	ni	PRON	_	PronType=Emp	3	amod	_	_
+5	níi	ní	PRON	_	PronType=Ind	3	obj	_	_
+6	bes	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	7	nsubj	_	SpaceAfter=No
+7	chotarsne	cotarsnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	acl:relcl	_	_
+8	di	do	ADP	_	AdpType=Prep|Definite=Ind	10	case	_	SpaceAfter=No
+9	ar	ar	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+10	nícc	ícc	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+
+# sent_id = 36
+# reference = 17d27
+# text = .i. ani tra aschotarsne frihícc nietar ciagessir
+1	.i.	.i.	ADV	_	Abbr=Yes	10	advmod	_	_
+2	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	ni	í	PART	_	PartType=Dct	10	obj	_	_
+4	tra	trá	ADV	_	_	3	advmod	_	_
+5	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	6	nsubj	_	SpaceAfter=No
+6	chotarsne	cotarsnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	acl:relcl	_	_
+7	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	8	case	_	SpaceAfter=No
+8	hícc	ícc	NOUN	_	Case=Acc|Number=Sing	6	obl	_	_
+9	ni	ní	PART	_	Polarity=Neg	10	advmod	_	SpaceAfter=No
+10	etar	adcota	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
+11	cia	cía	SCONJ	_	_	12	mark	_	SpaceAfter=No
+12	gessir	guidid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	advcl	_	_
+
+# sent_id = 38
+# reference = 31c7
+# text = .i. arnaérbarthar o chretsit nintá airli armban
+1	.i.	.i.	ADV	_	Abbr=Yes	4	advmod	_	_
+2	ar	ara	SCONJ	_	_	4	mark	_	SpaceAfter=No
+3	na	ná	SCONJ	_	Polarity=Neg	4	mark	_	SpaceAfter=No
+4	érbarthar	asbeir	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
+5	o	ó	SCONJ	_	_	6	mark	_	_
+6	chretsit	creitid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	4	advcl	_	_
+7	ni	ní	PART	_	Polarity=Neg	9	advmod	_	SpaceAfter=No
+8	n	n	PRON	_	Number=Plur|Person=1|PronClass=A|PronType=Prs	7	obj:infx	_	SpaceAfter=No
+9	tá	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	advcl	_	_
+10	airli	airle	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+11	ar	ar	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	SpaceAfter=No
+12	mban	ben	NOUN	_	Case=Gen|Number=Plur	10	nmod	_	_
+
+# sent_id = 39
+# reference = 2c4
+# text = .i. cain ronóibad abracham trihiris intree ǽm didiu fanacc
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	cain	cani	PRON	_	Polarity=Neg|PronType=Int	3	aux	_	_
+3	ronóibad	noibaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+4	abracham	abracham	PROPN	_	Case=Nom|Number=Sing	3	obj	_	_
+5	tri	tre	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	SpaceAfter=No
+6	hiris	iress	NOUN	_	Case=Acc|Number=Sing	3	obl	_	_
+7	in	in	PART	_	PronType=Int	8	mark:prt	_	SpaceAfter=No
+8	tree	tre	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	parataxis	_	_
+9	ǽm	ém	ADV	_	_	8	advmod	_	_
+10	didiu	didiu	ADV	8	advmod	_	_	_	_
+11	fa	fa	SCONJ	_	_	12	mark	_	SpaceAfter=No
+12	nacc	nacc	ADV	_	Polarity=Neg	8	advcl	_	_
 
 # sent_id = 34
 # reference = 30b4
@@ -341,8 +494,22 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	2	advmod	_	_
 2	rocomalnisid	comalnaithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 3	si	si	PRON	_	PronType=Emp	2	amod	_	_
-4	a	a	PART	_	PartType=Rel|PronType=Dem	5	nsubj	_	SpaceAfter=No
-5	nropridchissem	pridchaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	2	acl:relcl	_	SpaceAfter=No
+4	a	a	PART	_	PartType=Rel|PronType=Dem	2	obj	_	SpaceAfter=No
+5	nropridchissem	pridchaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	4	acl:relcl	_	SpaceAfter=No
 6	ni	ni	PRON	_	PronType=Emp	5	amod	_	_
 7	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	5	obl:prep	_	_
+
+# sent_id = 42
+# reference = 19d29
+# text = .i. act basamlid dúib cid immeícndarcus
+1	.i.	.i.	ADV	_	Abbr=Yes	4	advmod	_	_
+2	act	acht	SCONJ	_	_	4	mark	_	_
+3	ba	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
+4	samlid	amal	ADV	_	_	0	root	_	_
+5	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	_
+6	ci	cía	SCONJ	_	_	10	mark	_	SpaceAfter=No
+7	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	10	nsubj	_	_
+8	i	i	ADP	_	AdpType=Prep|Definite=Ind	10	case	_	SpaceAfter=No
+9	mm	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	SpaceAfter=No
+10	eícndarcus	éicndarcus	NOUN	_	Case=Dat|Number=Sing	4	acl	_	_
 
