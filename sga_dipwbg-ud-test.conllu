@@ -216,9 +216,9 @@
 # reference = 12c36
 # text = .i. cote mothorbese dúib madmne labrar
 1	.i.	.i.	ADV	_	Abbr=Yes	10	advmod	_	_
-2	cote	cote	PRON	_	PronType=Int	4	mark:int	_	_
+2	cote	cote	PRON	_	PronType=Int	10	advcl	_	_
 3	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	SpaceAfter=No
-4	thorbe	torbae	NOUN	_	Case=Nom|Number=Sing	10	advcl	_	SpaceAfter=No
+4	thorbe	torbae	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 5	se	se	PRON	_	PronType=Emp	4	amod	_	_
 6	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	_
 7	ma	má	SCONJ	_	_	9	mark	_	SpaceAfter=No
@@ -464,7 +464,7 @@
 # reference = 2c4
 # text = .i. cain ronóibad abracham trihiris intree ǽm didiu fanacc
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
-2	cain	cani	PRON	_	Polarity=Neg|PronType=Int	3	mark:int	_	_
+2	cain	cani	PRON	_	Polarity=Neg|PronType=Int	3	xcomp	_	_
 3	ronóibad	noibaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 4	abracham	abracham	PROPN	_	Case=Nom|Number=Sing	3	obj	_	_
 5	tri	tre	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	SpaceAfter=No
