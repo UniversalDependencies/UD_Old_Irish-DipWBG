@@ -1,32 +1,3 @@
-# sent_id = 15
-# reference = 6c7
-# text = .i. léic uáit inna biada mílsi et to mil inna hí siu do mmeil do chenél ar ná p hé som con éit dét so
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	léic	léicid	VERB	_	Mood=Imp|Number=Sing|Person=2|Voice=Act	_	_	_	_
-3	uáit	ó	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	inna	a	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
-5	biada	biad	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-6	mílsi	milis	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
-7	et	_	X	_	Foreign=Yes	_	_	_	_
-8	to	do	PART	_	PartType=Vb	_	_	_	_
-9	mil	domeil	VERB	_	Mood=Imp|Number=Sing|Person=2|Voice=Act	_	_	_	_
-10	inna	a	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
-11	hí	í	PART	_	PartType=Dct	_	_	_	_
-12	siu	so	PART	_	PronType=Dem	_	_	_	_
-13	do	do	PART	_	PartType=Vb	_	_	_	_
-14	mmeil	domeil	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-15	do	do	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
-16	chenél	cenél	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-17	ar	ara	SCONJ	_	_	_	_	_	_
-18	ná	ná	SCONJ	_	Polarity=Neg	_	_	_	_
-19	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-20	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-21	som	som	PRON	_	PronType=Emp	_	_	_	_
-22	con	con	PART	_	PartType=Vb	_	_	_	_
-23	éit	conéitet	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-24	dét	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	_	_	_	_
-25	so	so	PRON	_	PronType=Emp	_	_	_	_
-
 # sent_id = 17
 # reference = 27a24
 # text = .i. nachib mided .i. nachib berar i smachtu rechta fetarlicce inn a ndig et a mbiad inn a llíthu et a ssapati act bad foirbthe far niress
@@ -221,36 +192,6 @@
 15	fíadib	fíad	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 16	no	no	PART	_	PartType=Vb	_	_	_	_
 17	crochthe	crochaid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
-
-# sent_id = 40
-# reference = 18c6
-# text = .i. is machthad limm a threte do rérachtid máam firinne et sosceli .i. i suaignid nirubtar gáitha for comairli is dían do rreractid maám ind soscéli
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	machthad	machthad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	limm	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	_	_	_	_
-5	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-6	threte	trete	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-7	do	do	PART	_	PartType=Vb	_	_	_	_
-8	rérachtid	doérig	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	_	_	_	_
-9	máam	máam	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-10	firinne	fírinne	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-11	et	_	X	_	Foreign=Yes	_	_	_	_
-12	sosceli	soiscélae	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-13	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-14	i	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-15	suaignid	súaichnid	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
-16	nirubtar	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
-17	gáitha	gáeth	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
-18	for	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
-19	comairli	comairle	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-20	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-21	dían	dían	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-22	do	do	PART	_	PartType=Vb	_	_	_	_
-23	rreractid	doérig	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	_	_	_	_
-24	maám	máam	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-25	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-26	soscéli	soiscélae	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 41
 # reference = 5b11
