@@ -275,7 +275,7 @@
 6	mílsi	milis	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	5	amod	_	_
 7	et	_	X	_	Foreign=Yes	9	cc	_	SpaceAfter=No
 8	to	do	PART	_	PartType=Vb	9	compound:prt	_	SpaceAfter=No
-9	mil	domeil	VERB	_	Mood=Imp|Number=Sing|Person=2|Voice=Act	0	conj	_	_
+9	mil	domeil	VERB	_	Mood=Imp|Number=Sing|Person=2|Voice=Act	2	conj	_	_
 10	inna	a	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	11	det	_	SpaceAfter=No
 11	hí	í	PART	_	PartType=Dct	9	obj	_	_
 12	siu	so	PART	_	PronType=Dem	11	amod	_	_
@@ -555,7 +555,7 @@
 8	rérachtid	doérig	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	_
 9	máam	máam	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
 10	firinne	fírinne	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	_
-11	et	_	X	_	Foreign=Yes	12	cc	_	SpaceAfter=No
+11	et	_	X	_	Foreign=Yes	12	cc	_	_
 12	sosceli	soiscélae	NOUN	_	Case=Gen|Number=Sing	10	conj	_	_
 13	.i.	.i.	ADV	_	Abbr=Yes	15	advmod	_	_
 14	i	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	15	nsubj	_	SpaceAfter=No
