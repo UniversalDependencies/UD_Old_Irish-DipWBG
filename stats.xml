@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>34</sentences><tokens>438</tokens><words>438</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>34</sentences><tokens>438</tokens><words>438</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="171" /><!-- .i., is, do, a, no, sa, ar, attá, ní, in, mo, si, co, far, i -->
+  <forms unique="246" /><!-- .i., ar, a, is, ni, sa, no, et, do, si, co, d, dúib, mo, as -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">23</tag><!-- cotarsnae, il, ansae, athramail, domundae, domunde, díade, dían, ecnae, essamin -->
+    <tag name="ADP">45</tag><!-- do, i, ar, la, oc, tar, de, fri, tre, ó -->
+    <tag name="ADV">45</tag><!-- .i., amal, amein, didiu, nacc, nammá, trá, ém -->
+    <tag name="AUX">32</tag><!-- is -->
+    <tag name="CCONJ">8</tag><!-- _, nó -->
+    <tag name="DET">9</tag><!-- in, a -->
+    <tag name="NOUN">64</tag><!-- precept, soiscélae, cenn, día, etargne, iress, máam, nem, torbae, ícc -->
+    <tag name="PART">47</tag><!-- no, do, ní, as, so, a, at, in, ro, í -->
+    <tag name="PRON">68</tag><!-- sa, mo, si, far, a, ar, cách, m, se, t -->
+    <tag name="PROPN">4</tag><!-- abracham, críst, maccidóndae, moysi -->
+    <tag name="SCONJ">34</tag><!-- co, acht, ara, cía, ná, má, óre, a, amal, ar -->
+    <tag name="VERB">55</tag><!-- attá, guidid, asbeir, beirid, dogní, ailid, creitid, dobeir, domeil, doérig -->
+    <tag name="X">4</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="48">
+    <feat name="Abbr" value="Yes" upos="ADV">37</feat><!-- .i. -->
+    <feat name="AdpType" value="Prep" upos="ADP">45</feat><!-- ar, dúib, oc, dar, i, de, di, fri, as, dochum -->
+    <feat name="Aspect" value="Hab" upos="VERB">1</feat><!-- biuu -->
+    <feat name="Aspect" value="Imp" upos="VERB">3</feat><!-- bered, carad, gníthe -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">9</feat><!-- nirubtar, nropridchissem, rocomalnisid, ronóibad, rreractid, rucca, rérachtid, árbas, érbarthar -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,PROPN">36</feat><!-- cenn, inna, a, biada, béssu, chomalnad, chumang, comarbus, dia, diadi -->
+    <feat name="Case" value="Dat" upos="ADJ,NOUN">13</feat><!-- precept, carcair, chorp, chuimriug, eícndarcus, formut, frecṅdircc, irbáig, nem, nícc -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,PROPN">17</feat><!-- precepte, soscéli, belre, crist, domunde, firinne, hirisse, ind, inna, mban -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PROPN">32</feat><!-- chotarsne, in, uili, a, abracham, adthramli, airli, chenél, comairli, dían -->
+    <feat name="Definite" value="Ind" upos="ADP">45</feat><!-- ar, dúib, oc, dar, i, de, di, fri, as, dochum -->
+    <feat name="Degree" value="Cmp" upos="ADJ">1</feat><!-- lia -->
+    <feat name="Degree" value="Pos" upos="ADJ">22</feat><!-- chotarsne, domunde, adthramli, diadi, dían, essamin, foirbthi, frecṅdircc, gáitha, il -->
+    <feat name="Foreign" value="Yes" upos="CCONJ,X">10</feat><!-- et, gloria, legis -->
+    <feat name="Gender" value="Fem" upos="ADP,DET">2</feat><!-- inna, tree -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,PRON">10</feat><!-- hé, in, adthramli, d, diadi, ind, macthi, na -->
+    <feat name="Gender" value="Masc,Neut" upos="PRON">3</feat><!-- a -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,PRON">20</feat><!-- a, chotarsne, hed, inna, domunde, essamin, foirbthi, gáitha, inse, mílsi -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">6</feat><!-- amlid, bed, gaibid, léic, mil, naba -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">52</feat><!-- is, ni, bimmi, tá, ail, am, anicc, as, beir, bered -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">29</feat><!-- d, ba, p, arim, beo, bera, berinn, bes, certa, fulsam -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,VERB">65</feat><!-- dúib, for, ar, inna, bimmi, far, uili, adthramli, amlid, b -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,VERB">175</feat><!-- is, a, mo, d, m, ni, t, ba, cenn, chotarsne -->
+    <feat name="PartType" value="Dct" upos="PART">2</feat><!-- hí, ni -->
+    <feat name="PartType" value="Rel" upos="PART">3</feat><!-- a -->
+    <feat name="PartType" value="Vb" upos="PART">29</feat><!-- no, do, as, nas, a, at, con, d, eter, int -->
+    <feat name="Person" value="1" upos="ADP,AUX,PRON,VERB">40</feat><!-- mo, m, ar, bimmi, am, arim, beo, berinn, biur, biuu -->
+    <feat name="Person" value="2" upos="ADP,AUX,PRON,VERB">38</feat><!-- dúib, for, t, far, amlid, b, ba, bed, do, dét -->
+    <feat name="Person" value="3" upos="ADP,AUX,PRON,VERB">64</feat><!-- is, a, d, ni, de, hed, hé, p, tá, ail -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,PART,PRON,SCONJ">20</feat><!-- ni, ní, na, cain, naba, nacc, nirubtar, ná, nád -->
+    <feat name="Polarity" value="Pos" upos="AUX">26</feat><!-- is, d, ba, bimmi, p, am, as, bed, bes, i -->
+    <feat name="Poss" value="Yes" upos="PRON">20</feat><!-- mo, for, a, ar, far, do, m, mm -->
+    <feat name="Prefix" value="Yes" upos="ADJ">1</feat><!-- il -->
+    <feat name="PronClass" value="A" upos="PRON">10</feat><!-- m, t, a, b, n, s -->
+    <feat name="PronClass" value="C" upos="PRON">2</feat><!-- d, ndob -->
+    <feat name="PronType" value="Ana" upos="PRON">1</feat><!-- són -->
+    <feat name="PronType" value="Art" upos="DET">9</feat><!-- inna, a, in, ind, na -->
+    <feat name="PronType" value="Dem" upos="PART">8</feat><!-- a, so, se, sin, siu -->
+    <feat name="PronType" value="Emp" upos="PRON">24</feat><!-- sa, si, se, ni, so, som -->
+    <feat name="PronType" value="Ind" upos="PRON">4</feat><!-- cách, cáich, níi -->
+    <feat name="PronType" value="Int" upos="PART,PRON">3</feat><!-- cain, cote, in -->
+    <feat name="PronType" value="Prs" upos="ADP,PRON">55</feat><!-- dúib, mo, a, for, m, ar, t, de, far, hed -->
+    <feat name="PronType" value="Rel" upos="AUX">2</feat><!-- as, bes -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">7</feat><!-- bimmi, bia, chechladar, creitfess, gigeste, ririu -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">15</feat><!-- anicc, bered, berinn, carad, chretsit, gníthe, nirubtar, nropridchissem, rocomalnisid, ronóibad -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">59</feat><!-- is, d, ni, ba, p, tá, ail, am, arim, as -->
+    <feat name="VerbType" value="Cop" upos="AUX">32</feat><!-- is, d, ni, ba, bimmi, p, am, as, bed, bes -->
+    <feat name="Voice" value="Act" upos="VERB">50</feat><!-- tá, ail, amlid, anicc, arim, beir, beo, bera, bered, berinn -->
+    <feat name="Voice" value="Pass" upos="VERB">5</feat><!-- etar, gníthe, ronóibad, árbas, érbarthar -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="28">
+    <dep name="acl">6</dep>
+    <dep name="acl:relcl">10</dep>
+    <dep name="advcl">15</dep>
+    <dep name="advmod">49</dep>
+    <dep name="amod">33</dep>
+    <dep name="case">27</dep>
+    <dep name="cc">10</dep>
+    <dep name="ccomp">1</dep>
+    <dep name="compound:prt">29</dep>
+    <dep name="conj">11</dep>
+    <dep name="cop">5</dep>
+    <dep name="csubj">2</dep>
+    <dep name="det">9</dep>
+    <dep name="dislocated">5</dep>
+    <dep name="flat:foreign">2</dep>
+    <dep name="mark">34</dep>
+    <dep name="mark:int">1</dep>
+    <dep name="nmod">19</dep>
+    <dep name="nmod:poss">20</dep>
+    <dep name="nsubj">40</dep>
+    <dep name="nsubj:outer">1</dep>
+    <dep name="obj">22</dep>
+    <dep name="obj:infx">12</dep>
+    <dep name="obl">22</dep>
+    <dep name="obl:prep">17</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="root">34</dep>
+    <dep name="xcomp">1</dep>
+  </deps>
+</treebank>
