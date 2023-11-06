@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Old_Irish-DipWBG:
-commit f287a87ff3205799fbaf55b4092a5c1450137a01
+commit 05ed294f45b4fa7be26cd5e1be89698b8a582cd7
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 07:43:03 2023 +0200
+Date:   Tue May 9 11:42:04 2023 +0200
 Size: counted 438 of 438 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 22 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         58
-Udapi: found 58 bugs.
+               TOTAL         57
+Udapi: found 57 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 438 words.
 Genres: found 3 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sga --max-err=10 UD_Old_Irish-DipWBG/sga_dipwbg-ud-test.conllu
