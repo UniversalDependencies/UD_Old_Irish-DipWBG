@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Old_Irish-DipWBG:
-commit 05ed294f45b4fa7be26cd5e1be89698b8a582cd7
+commit d893174f83b6a85447309af0def5fe2f4de7e98b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 11:42:04 2023 +0200
+Date:   Mon Nov 6 12:46:45 2023 +0100
 Size: counted 438 of 438 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,9 @@ Udapi: found 57 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 438 words.
 Genres: found 3 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sga --max-err=10 UD_Old_Irish-DipWBG/sga_dipwbg-ud-test.conllu
+[Line 345 Sent 20 Node 10]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 348 Sent 20 Node 13]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+Warnings: 2
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
