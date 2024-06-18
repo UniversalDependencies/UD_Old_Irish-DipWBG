@@ -14,13 +14,13 @@
 11	inn	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 12	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 13	ndig	deug	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-14	et	_	X	_	Foreign=Yes	_	_	_	_
+14	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
 15	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 16	mbiad	biad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 17	inn	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 18	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 19	llíthu	líth	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-20	et	_	X	_	Foreign=Yes	_	_	_	_
+20	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
 21	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 22	ssapati	sabait	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 23	act	acht	SCONJ	_	_	_	_	_	_
@@ -47,7 +47,7 @@
 13	sa	sa	PRON	_	PronType=Emp	_	_	_	_
 14	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 15	gáu	gáu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-16	et	_	X	_	Foreign=Yes	_	_	_	_
+16	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
 17	fír	fír	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 18	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 19	co	co	SCONJ	_	_	_	_	_	_
@@ -58,7 +58,7 @@
 24	berin	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
 25	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 26	bélib	bél	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
-27	et	_	X	_	Foreign=Yes	_	_	_	_
+27	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
 28	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 29	ní	í	PART	_	PartType=Dct	_	_	_	_
 30	imme	imm	PART	_	PartType=Vb	_	_	_	_
@@ -87,7 +87,7 @@
 16	són	són	PRON	_	PronType=Ana	_	_	_	_
 17	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 18	tra	trá	ADV	_	_	_	_	_	_
-19	et	_	X	_	Foreign=Yes	_	_	_	_
+19	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
 20	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 21	béo	béo	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 22	de	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -108,7 +108,7 @@
 11	melmis	domeil	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
 12	cech	cach	PRON	_	PronType=Ind	_	_	_	_
 13	tuari	túare	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-14	et	_	X	_	Foreign=Yes	_	_	_	_
+14	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
 15	ce	cía	SCONJ	_	_	_	_	_	_
 16	du	do	PART	_	PartType=Vb	_	_	_	_
 17	gnemmis	dogní	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
@@ -122,7 +122,7 @@
 25	nertad	nertad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 26	na	in	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
 27	mbraithre	bráthair	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-28	et	_	X	_	Foreign=Yes	_	_	_	_
+28	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
 29	frescsiu	frescsiu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 30	fogchricce	fochricc	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 31	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -143,7 +143,7 @@
 10	do	do	PART	_	PartType=Vb	_	_	_	_
 11	gnethe	dogní	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 12	frib	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	_	_	_	_
-13	et	_	X	_	Foreign=Yes	_	_	_	_
+13	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
 14	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 15	bethe	attá	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Past|Voice=Act	_	_	_	_
 16	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
