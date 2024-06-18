@@ -44,7 +44,7 @@
 10	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 11	m	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 12	labrad	labrad	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-13	sa	sa	PRON	_	PronType=Emp	_	_	_	_
+13	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	_	_	_	_
 14	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 15	gáu	gáu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
@@ -158,14 +158,14 @@
 3	cuit	cuit	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	adíll	adall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	cucuib	co	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	_	_	_	_
-6	si	si	PRON	_	PronType=Emp	_	_	_	_
+6	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	_	_	_	_
 7	acht	acht	SCONJ	_	_	_	_	_	_
 8	ainfa	anaid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	_
 9	lib	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 10	ar	ar	SCONJ	_	_	_	_	_	_
 11	nidad	is	AUX	_	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 12	foirbthi	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
-13	si	si	PRON	_	PronType=Emp	_	_	_	_
+13	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	_	_	_	_
 14	,	,	PUNCT	_	_	_	_	_	_
 15	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 16	foirbthi	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
@@ -220,5 +220,5 @@
 22	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 23	so	so	PART	_	PronType=Dem	_	_	_	_
 24	les	la	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-25	som	som	PRON	_	PronType=Emp	_	_	_	_
+25	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 

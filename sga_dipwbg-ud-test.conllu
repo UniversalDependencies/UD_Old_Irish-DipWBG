@@ -3,13 +3,13 @@
 # text = .i. biuusa ocirbáig darfarcennsi frimaccidóndu
 1	.i.	.i.	ADV	_	Abbr=Yes	2	advmod	_	_
 2	biuu	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-3	sa	sa	PRON	_	PronType=Emp	2	amod	_	_
+3	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	2	amod	_	_
 4	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	SpaceAfter=No
 5	irbáig	airbág	NOUN	_	Case=Dat|Number=Sing	2	obl	_	_
 6	dar	tar	ADP	_	AdpType=Prep|Definite=Ind	8	case	_	SpaceAfter=No
 7	far	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	SpaceAfter=No
 8	cenn	cenn	NOUN	_	Case=Acc|Number=Sing	5	acl	_	SpaceAfter=No
-9	si	si	PRON	_	PronType=Emp	7	amod	_	_
+9	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	7	amod	_	_
 10	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	SpaceAfter=No
 11	maccidóndu	maccidóndae	PROPN	_	Case=Acc|Number=Plur	5	acl	_	_
 
@@ -21,22 +21,22 @@
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	4	case	_	SpaceAfter=No
 4	formut	format	NOUN	_	Case=Dat|Number=Sing	8	obl	_	_
 5	frib	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	SpaceAfter=No
-6	si	si	PRON	_	PronType=Emp	5	amod	_	_
+6	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	5	amod	_	_
 7	as	as	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
 8	biur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-9	sa	sa	PRON	_	PronType=Emp	8	amod	_	_
+9	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	8	amod	_	_
 10	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
 11	so	so	PART	_	PronType=Dem	8	obj	_	_
 12	ar	ar	SCONJ	_	_	14	mark	_	SpaceAfter=No
 13	ropad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	14	cop	_	_
 14	maith	maith	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	advcl	_	_
 15	lim	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	14	obl:prep	_	SpaceAfter=No
-16	sa	sa	PRON	_	PronType=Emp	15	amod	_	_
+16	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	15	amod	_	_
 17	labrad	labrad	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	_
 18	il	il	ADJ	_	Degree=Pos|Prefix=Yes	19	amod	_	SpaceAfter=No
 19	belre	bélrae	NOUN	_	Case=Gen|Number=Plur	17	nmod	_	_
 20	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	19	obl:prep	_	SpaceAfter=No
-21	si	si	PRON	_	PronType=Emp	20	amod	_	_
+21	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	20	amod	_	_
 
 # sent_id = 3
 # reference = 14d26
@@ -49,7 +49,7 @@
 6	d	do	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
 7	a	a	PRON	_	Gender=Neut|Number=Sing|Person=3|PronClass=A|PronType=Prs	6	obj:infx	_	SpaceAfter=No
 8	gníu	dogní	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-9	sa	sa	PRON	_	PronType=Emp	8	amod	_	_
+9	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	8	amod	_	_
 10	sin	sin	PART	_	PronType=Dem	8	nsubj	_	_
 
 # sent_id = 4
@@ -123,7 +123,7 @@
 3	no	no	PART	_	PartType=Vb	5	compound:prt	_	SpaceAfter=No
 4	ndob	dob	PRON	_	Number=Plur|Person=2|PronClass=C|PronType=Prs	3	obj:infx	_	SpaceAfter=No
 5	molor	molaid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-6	sa	sa	PRON	_	PronType=Emp	5	amod	_	_
+6	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	5	amod	_	_
 7	et	_	CCONJ	_	Foreign=Yes	10	cc	_	_
 8	no	no	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
 9	m	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	8	obj:infx	_	_
@@ -138,7 +138,7 @@
 3	no	no	PART	_	PartType=Vb	4	compound:prt	_	SpaceAfter=No
 4	nda	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	5	nsubj	_	SpaceAfter=No
 5	frecṅdircc	frecndairc	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-6	sa	sa	PRON	_	PronType=Emp	4	amod	_	_
+6	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	4	amod	_	_
 
 # sent_id = 9
 # reference = 5b28
@@ -168,7 +168,7 @@
 4	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	SpaceAfter=No
 5	lóg	lóg	NOUN	_	Case=Acc|Number=Sing	6	obl	_	_
 6	pridcha	pridchaid	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-7	sa	sa	PRON	_	PronType=Emp	6	amod	_	_
+7	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	6	amod	_	_
 8	.i.	.i.	ADV	_	Abbr=Yes	11	advmod	_	_
 9	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	SpaceAfter=No
 10	m	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	SpaceAfter=No
@@ -192,18 +192,18 @@
 2	co	co	SCONJ	_	_	4	mark	_	SpaceAfter=No
 3	ní	ní	PART	_	Polarity=Neg	4	advmod	_	SpaceAfter=No
 4	arim	adrími	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-5	se	se	PRON	_	PronType=Emp	4	amod	_	_
+5	se	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	4	amod	_	_
 6	peccad	peccad	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 7	lib	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	6	obl:prep	_	SpaceAfter=No
-8	si	si	PRON	_	PronType=Emp	7	amod	_	_
+8	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	7	amod	_	_
 9	uili	uile	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	7	amod	_	_
 10	ɫ	nó	CCONJ	_	_	12	cc	_	_
 11	ara	ara	SCONJ	_	_	12	mark	_	SpaceAfter=No
 12	tart	dobeir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	4	conj	_	SpaceAfter=No
-13	sa	sa	PRON	_	PronType=Emp	12	amod	_	_
+13	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	12	amod	_	_
 14	fortacht	fortacht	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
 15	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	14	obl:prep	_	SpaceAfter=No
-16	si	si	PRON	_	PronType=Emp	15	amod	_	_
+16	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	15	amod	_	_
 17	ar	ara	SCONJ	_	_	20	mark	_	SpaceAfter=No
 18	na	ná	SCONJ	_	Polarity=Neg	20	mark	_	SpaceAfter=No
 19	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	20	nsubj	_	_
@@ -219,7 +219,7 @@
 2	cote	cote	PRON	_	PronType=Int	10	advcl	_	_
 3	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	SpaceAfter=No
 4	thorbe	torbae	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
-5	se	se	PRON	_	PronType=Emp	4	amod	_	_
+5	se	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	3	amod	_	_
 6	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	_
 7	ma	má	SCONJ	_	_	9	mark	_	SpaceAfter=No
 8	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	9	nsubj	_	SpaceAfter=No
@@ -287,11 +287,11 @@
 18	ná	ná	SCONJ	_	Polarity=Neg	20	mark	_	SpaceAfter=No
 19	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	20	nsubj	_	SpaceAfter=No
 20	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	csubj	_	_
-21	som	som	PRON	_	PronType=Emp	20	amod	_	_
+21	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	20	amod	_	_
 22	con	con	PART	_	PartType=Vb	23	compound:prt	_	SpaceAfter=No
 23	éit	conéitet	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	_
 24	dét	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	23	obl:prep	_	SpaceAfter=No
-25	so	so	PRON	_	PronType=Emp	24	amod	_	_
+25	so	so	PRON	_	Number=Sing|Person=2|PronType=Emp	24	amod	_	_
 
 # sent_id = 16
 # reference = 29d19
@@ -301,7 +301,7 @@
 3	thoirsech	toirsech	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 4	cia	cía	SCONJ	_	_	5	mark	_	SpaceAfter=No
 5	beo	attá	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	3	acl	_	SpaceAfter=No
-6	sa	sa	PRON	_	PronType=Emp	5	amod	_	_
+6	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	5	amod	_	_
 7	hi	i	ADP	_	AdpType=Prep|Definite=Ind	8	case	_	SpaceAfter=No
 8	carcair	carcar	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
 
@@ -382,7 +382,7 @@
 2	hore	óre	SCONJ	_	_	4	mark	_	_
 3	am	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 4	essamin	essamin	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	advcl	_	SpaceAfter=No
-5	se	se	PRON	_	PronType=Emp	3	amod	_	_
+5	se	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	3	amod	_	_
 6	precepte	precept	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
 7	as	a	ADP	_	AdpType=Prep|Definite=Ind	9	case	_	SpaceAfter=No
 8	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	SpaceAfter=No
@@ -409,7 +409,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
 2	as	as	PART	_	PartType=Vb	3	compound:prt	_	SpaceAfter=No
 3	ririu	asren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No
-4	sa	sa	PRON	_	PronType=Emp	3	amod	_	_
+4	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	3	amod	_	_
 5	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	SpaceAfter=No
 6	chumang	cumang	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 7	dar	tar	ADP	_	AdpType=Prep|Definite=Ind	9	case	_	SpaceAfter=No
@@ -435,7 +435,7 @@
 # text = .i. gigestesi dia linn arafulsam ar fochidi
 1	.i.	.i.	ADV	_	Abbr=Yes	2	advmod	_	_
 2	gigeste	guidid	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No
-3	si	si	PRON	_	PronType=Emp	2	amod	_	_
+3	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	2	amod	_	_
 4	dia	día	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
 5	linn	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	4	obl:prep	_	_
 6	ara	ara	SCONJ	_	_	7	mark	_	SpaceAfter=No
@@ -461,7 +461,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
 2	ni	ní	PART	_	Polarity=Neg	3	advmod	_	SpaceAfter=No
 3	gessam	guidid	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-4	ni	ni	PRON	_	PronType=Emp	3	amod	_	_
+4	ni	ni	PRON	_	Number=Plur|Person=1|PronType=Emp	3	amod	_	_
 5	níi	ní	PRON	_	PronType=Ind	3	obj	_	_
 6	bes	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	7	nsubj	_	SpaceAfter=No
 7	chotarsne	cotarsnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	acl:relcl	_	_
@@ -490,10 +490,10 @@
 # text = .i. rocomalnisidsi anropridchissemni dúib
 1	.i.	.i.	ADV	_	Abbr=Yes	2	advmod	_	_
 2	rocomalnisid	comalnaithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
-3	si	si	PRON	_	PronType=Emp	2	amod	_	_
+3	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	2	amod	_	_
 4	a	a	PART	_	PartType=Rel|PronType=Dem	2	obj	_	SpaceAfter=No
 5	nropridchissem	pridchaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	4	acl:relcl	_	SpaceAfter=No
-6	ni	ni	PRON	_	PronType=Emp	5	amod	_	_
+6	ni	ni	PRON	_	Number=Plur|Person=1|PronType=Emp	5	amod	_	_
 7	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	5	obl:prep	_	_
 
 # sent_id = 38
