@@ -154,7 +154,7 @@
 9	nail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
 10	acht	acht	SCONJ	_	_	12	mark	_	_
 11	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	12	nsubj	_	SpaceAfter=No
-12	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl	_	_
+12	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl	_	_
 13	no	no	PART	_	PartType=Vb	15	compound:prt	_	SpaceAfter=No
 14	t	t_1	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	13	obj:infx	_	_
 15	ail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	acl:relcl	_	_
@@ -286,7 +286,7 @@
 17	ar	ara	SCONJ	_	_	20	mark	_	SpaceAfter=No
 18	ná	ná	SCONJ	_	Polarity=Neg	20	mark	_	SpaceAfter=No
 19	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	20	nsubj	_	SpaceAfter=No
-20	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	csubj	_	_
+20	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	csubj	_	_
 21	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	20	amod	_	_
 22	con	con	PART	_	PartType=Vb	23	compound:prt	_	SpaceAfter=No
 23	éit	conéitet	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	_
