@@ -250,7 +250,7 @@
 4	samlid	amal	ADV	_	_	0	root	_	_
 5	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	6	cop	_	SpaceAfter=No
 6	torbe	torbae	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
-7	són	són	PRON	_	PronType=Ana	6	nsubj:outer	_	_
+7	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	6	nsubj:outer	_	_
 8	co	co	SCONJ	_	_	10	mark	_	_
 9	eter	eter	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
 10	certa	etarcerta	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	csubj	_	_
@@ -523,7 +523,7 @@
 6	hiris	iress	NOUN	_	Case=Acc|Number=Sing	3	obl	_	_
 7	in	in	PART	_	PronType=Int	8	mark:int	_	SpaceAfter=No
 8	tree	tre	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	parataxis	_	_
-9	ǽm	ém	ADV	_	_	8	advmod	_	_
+9	ǽm	ám	ADV	_	_	8	advmod	_	_
 10	didiu	didiu	ADV	_	_	8	advmod	_	_
 11	fa	fa	SCONJ	_	_	12	mark	_	SpaceAfter=No
 12	nacc	nacc	ADV	_	Polarity=Neg	8	advcl	_	_

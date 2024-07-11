@@ -76,7 +76,7 @@
 5	immurgu	immurgu	SCONJ	_	_	_	_	_	_
 6	ba	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 7	maith	maith	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-8	són	són	PRON	_	PronType=Ana	_	_	_	_
+8	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 9	act	acht	SCONJ	_	_	_	_	_	_
 10	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 11	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
@@ -84,7 +84,7 @@
 13	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	a	at	PART	_	PartType=Vb	_	_	_	_
 15	tá	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-16	són	són	PRON	_	PronType=Ana	_	_	_	_
+16	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 17	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 18	tra	trá	ADV	_	_	_	_	_	_
 19	et	_	CCONJ	_	Foreign=Yes	_	_	_	_
