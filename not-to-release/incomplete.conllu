@@ -2,32 +2,34 @@
 # reference = 27a24
 # text = .i. nachib mided .i. nachib berar i smachtu rechta fetarlicce inn a ndig et a mbiad inn a llíthu et a ssapati act bad foirbthe far niress
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	nachib	nach	ADV	_	Number=Plur|Person=2|Polarity=Neg|PronType=Prs	_	_	_	_
-3	mided	midithir	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Act	_	_	_	_
-4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-5	nachib	nach	ADV	_	Number=Plur|Person=2|Polarity=Neg|PronType=Prs	_	_	_	_
-6	berar	beirid	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	_	_	_	_
-7	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-8	smachtu	smacht	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-9	rechta	recht	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-10	fetarlicce	fetarlicce	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-11	inn	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-12	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-13	ndig	deug	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-14	et	_	CCONJ	_	Foreign=Yes	_	_	_	Lang=la
-15	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-16	mbiad	biad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-17	inn	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-18	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-19	llíthu	líth	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-20	et	_	CCONJ	_	Foreign=Yes	_	_	_	Lang=la
-21	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-22	ssapati	sabait	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-23	act	acht	SCONJ	_	_	_	_	_	_
-24	bad	is	AUX	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop	_	_	_	_
-25	foirbthe	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
-26	far	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
-27	niress	iress	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	nach	nách_1	ADV	_	Polarity=Neg	_	_	_	_
+3	ib	ib	PRON	_	Number=Plur|Person=2|PronClass=Neg|PronType=Prs	_	_	_	_
+4	mided	midithir	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Act	_	_	_	_
+5	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
+6	nach	nách_1	ADV	_	Polarity=Neg	_	_	_	_
+7	ib	ib	PRON	_	Number=Plur|Person=2|PronClass=Neg|PronType=Prs	_	_	_	_
+8	berar	beirid	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	_	_	_	_
+9	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
+10	smachtu	smacht	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
+11	rechta	recht	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+12	fetarlicce	fetarlicce	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+13	inn	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
+14	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
+15	ndig	deug	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
+16	et	_	CCONJ	_	Foreign=Yes	_	_	_	Lang=la
+17	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
+18	mbiad	biad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
+19	inn	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
+20	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
+21	llíthu	líth	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
+22	et	_	CCONJ	_	Foreign=Yes	_	_	_	Lang=la
+23	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
+24	ssapati	sabait	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
+25	act	acht	SCONJ	_	_	_	_	_	_
+26	bad	is	AUX	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop	_	_	_	_
+27	foirbthe	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+28	far	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
+29	niress	iress	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 22
 # reference = 14c23
