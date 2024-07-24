@@ -54,7 +54,7 @@
 18	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 19	co	co	SCONJ	_	_	_	_	_	_
 20	mbad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
-21	sain	sain	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+21	sain	sain	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 22	a	a	PART	_	PartType=Rel|PronType=Dem	_	_	_	_
 23	nas	as	PART	_	PartType=Vb	_	_	_	_
 24	berin	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
