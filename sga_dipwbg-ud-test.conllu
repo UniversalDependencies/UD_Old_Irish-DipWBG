@@ -345,7 +345,7 @@
 10	árbas	doadbat	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	conj	_	_
 11	gloria	_	NOUN	_	Foreign=Yes	10	obj	_	Lang=la
 12	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	13	case	_	SpaceAfter=No
-13	tindnacul	tindnacul	NOUN	_	Case=Dat|Number=Sing	10	obl	_	_
+13	tindnacul	tindnacol	NOUN	_	Case=Dat|Number=Sing	10	obl	_	_
 14	legis	_	NOUN	_	Foreign=Yes	13	nmod	_	Lang=la
 
 # sent_id = 21
