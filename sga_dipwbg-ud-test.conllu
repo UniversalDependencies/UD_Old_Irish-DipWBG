@@ -109,7 +109,7 @@
 17	temel	temel	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	_
 18	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	19	det	_	SpaceAfter=No
 19	tol	tol	NOUN	_	Case=Gen|Number=Plur	17	nmod	_	_
-20	domunde	domunde	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+20	domunde	domundae	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
 21	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	22	case	_	SpaceAfter=No
 22	rosc	rosc	NOUN	_	Case=Acc|Number=Sing	19	nmod	_	_
 23	for	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	24	nmod:poss	_	SpaceAfter=No
