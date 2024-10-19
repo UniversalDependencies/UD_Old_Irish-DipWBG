@@ -262,7 +262,7 @@
 16	rucca	beirid	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	conj	_	_
 17	i	i	ADP	_	AdpType=Prep|Definite=Ind	18	case	_	SpaceAfter=No
 18	nætarcne	etargne	NOUN	_	Case=Acc|Number=Sing	16	obl	_	_
-19	cáich	cách	PRON	_	PronType=Ind	18	nmod	_	_
+19	cáich	cách	PRON	_	Case=Gen|Number=Sing|PronType=Ind	18	nmod	_	_
 
 # sent_id = 15
 # reference = 6c7
