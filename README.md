@@ -36,6 +36,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 Data available since: UD v2.12
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: bible grammar-examples nonfiction
 Lemmas: converted with corrections
 UPOS: manual native
