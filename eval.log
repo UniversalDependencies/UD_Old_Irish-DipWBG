@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Old_Irish-DipWBG:
-commit bb73179135698feb3e1373800b0f1858cde4434a
-Merge: a81514b b97aa50
+commit 3d8d004bc19378f14cfc47d6485924bee9f8071c
+Merge: b94403c 272f92f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'sga_dipwbg'
@@ -25,16 +25,15 @@ Universal relations: 21 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sga --max-err=10 UD_Old_Irish-DipWBG/sga_dipwbg-ud-test.conllu
-[Line 23 Sent 2]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'formut') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 38 Sent 2]: [L3 Warning obl-should-be-nmod] The parent (node [19] 'belre') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 197 Sent 11]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'peccad') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 205 Sent 11]: [L3 Warning obl-should-be-nmod] The parent (node [14] 'fortacht') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 223 Sent 12]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'thorbe') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 440 Sent 33]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'dia') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 537 Sent 40]: [L3 Warning obl-should-be-nmod] The parent (node [3] 'machthad') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-Warnings: 7
-*** PASSED ***
-Validity: 1
+[Line 38 Sent 2]: [L3 SYNTAX obl-should-be-nmod] The parent (node [19] 'belre') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 197 Sent 11]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'peccad') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 205 Sent 11]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'fortacht') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 223 Sent 12]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'thorbe') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 440 Sent 33]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'dia') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+SYNTAX errors: 5
+*** FAILED *** with 5 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
 (weight=0.111111111111111) * (score{lemmas}=0.9) = 0.1
@@ -42,6 +41,6 @@ Validity: 1
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.705882352941177) = 0.0784313725490196
 (weight=0.111111111111111) * (score{udeprels}=0.567567567567568) = 0.0630630630630631
-(TOTAL score=0.371864805982453) * (availability=1) * (validity=1) = 0.371864805982453
-STARS = 2
-UD_Old_Irish-DipWBG	0.371864805982453	2
+(TOTAL score=0.371864805982453) * (availability=1) * (validity=0.01) = 0.00371864805982453
+STARS = 0
+UD_Old_Irish-DipWBG	0.00371864805982453	0
