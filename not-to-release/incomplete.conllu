@@ -108,7 +108,7 @@
 9	ce	cía	SCONJ	_	_	_	_	_	_
 10	du	do	PART	_	PartType=Vb	_	_	_	_
 11	melmis	domeil	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
-12	cech	cach	PRON	_	PronType=Ind	_	_	_	_
+12	cech	cach	DET	_	Case=Acc|Definite=Def|Number=Sing	_	_	_	_
 13	tuari	túare	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 14	et	_	CCONJ	_	Foreign=Yes	_	_	_	Lang=la
 15	ce	cía	SCONJ	_	_	_	_	_	_
@@ -140,7 +140,7 @@
 5	aich	adaig	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 6	cen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	dílgud	dílgud	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-8	cech	cach	PRON	_	PronType=Ind	_	_	_	_
+8	cech	cach	DET	_	Case=Gen|Definite=Def|Number=Sing	_	_	_	_
 9	ancridi	ancride	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 10	do	do	PART	_	PartType=Vb	_	_	_	_
 11	gnethe	dogní	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
