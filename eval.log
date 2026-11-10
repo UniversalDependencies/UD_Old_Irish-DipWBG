@@ -1,16 +1,16 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Old_Irish-DipWBG:
-commit 3d8d004bc19378f14cfc47d6485924bee9f8071c
-Merge: b94403c 272f92f
+commit 76b1bc24e3a5681c14f37568701fc2d903bb7f14
+Merge: 03825e0 6106e17
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'sga_dipwbg'
 Language code (from CoNLL-U file name) = 'sga'
 Found the following data files: sga_dipwbg-ud-test.conllu
-Size: counted 438 of 438 words (nodes).
+Size: counted 441 of 441 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
@@ -19,7 +19,7 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 12 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 400 out of 438 total words have one or more features.
+Features: 403 out of 441 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 21 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
